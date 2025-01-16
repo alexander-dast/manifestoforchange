@@ -3,7 +3,7 @@
  * @type {import("../config/siteConfig").UserConfig}
  */
 
-const userConfig = {
+const config = {
     title: "Manifesto For Change",
     description: "Looking to leave a brighter future.",
     showEditLink: false,
