@@ -2,7 +2,7 @@ import { writeFileSync } from "fs";
 import { globby } from "globby";
 import prettier from "prettier";
 
-import config from "../content/config.mjs";
+import config from "../config/config.mjs";
 import clientPromise from "../lib/mddb.mjs";
 
 export default async function sitemap() {
