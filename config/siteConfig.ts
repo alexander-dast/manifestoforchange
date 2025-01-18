@@ -1,4 +1,4 @@
-import userConfig from "@/content/config.mjs";
+import userConfig from "@/config/config.mjs";
 import {
   AnalyticsConfig,
   AuthorConfig,
