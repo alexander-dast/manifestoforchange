@@ -28,7 +28,9 @@ const userConfig = {
       toggleIcon: "/_flowershow/theme-button.svg",
     },
     navLinks: [
-      // { href: '/about', name: 'About' },
+        { href: '/Tax', name: 'Tax' },
+        { href: '/README', name: 'README.md' },
+
     ],
   }
 
