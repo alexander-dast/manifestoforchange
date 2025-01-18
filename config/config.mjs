@@ -3,18 +3,17 @@
  * @type {import("../config/siteConfig").UserConfig}
  */
 
-const config = {
-    title: "Manifesto For Change",
+const userConfig = {
+    title: "manifestoforchange",
+    domain: "manifestoforchange.org.uk",
     description: "Looking to leave a brighter future.",
-    showEditLink: false,
+    showEditLink: true,
+    editLinkRoot: "https://github.com/alexander-dast/manifestoforchange-content/edit/main",
     showToc: true,
     showSidebar: false,
     showLinkPreviews: true,
     author: "",
     authorLogo: "",
-    domain: "",
-    // Google analytics key e.g. G-XXXX
-    analytics: "",
     // content source directory for markdown files
     // DO NOT CHANGE THIS VALUE
     // if you have your notes in another (external) directory,
@@ -33,4 +32,4 @@ const config = {
     ],
   }
 
-export default config;
+export default userConfig;

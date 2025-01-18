@@ -1,6 +1,6 @@
 import { writeFileSync } from "fs";
 
-import config from "../config/config.mjs";
+import userConfig from "../config/config.mjs";
 import clientPromise from "../lib/mddb.mjs";
 
 // const omit = (obj = {}, keys = []) => {
@@ -32,7 +32,7 @@ export default async function search() {
       // )
     );
 
-  if (config?.search?.provider === "kbar") {
+  if (userConfig?.search?.provider === "kbar") {
     writeFileSync("public/search.json", JSON.stringify(coreContent));
     console.log("Local search index generated...");
   }
