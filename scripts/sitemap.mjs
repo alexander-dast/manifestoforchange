@@ -2,7 +2,7 @@ import { writeFileSync } from "fs";
 import { globby } from "globby";
 import prettier from "prettier";
 
-import config from "../content/config.mjs";
+import userConfig from "../config/config.mjs";
 import clientPromise from "../lib/mddb.mjs";
 
 export default async function sitemap() {
@@ -20,7 +20,7 @@ export default async function sitemap() {
     "!pages/**/\\[\\[*\\]\\].(js|tsx)", // pages/[[...slug]].tsx
   ]);
 
-  const siteUrl = config?.domain?.replace(/\/$/, "");
+  const siteUrl = userConfig?.domain?.replace(/\/$/, "");
 
   const sitemap = `
     <?xml version="1.0" encoding="UTF-8"?>
