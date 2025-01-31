@@ -56,7 +56,8 @@ export function pageResources(
     ],
   }
 
-  if (fileData.hasMermaidDiagram) {
+  if (true) { // NOTE: Force mermaid loading to deal with issues
+  // (fileData.hasMermaidDiagram) {
     resources.js.push({
       script: mermaidScript,
       loadTime: "afterDOMReady",
