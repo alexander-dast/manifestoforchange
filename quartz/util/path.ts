@@ -180,7 +180,8 @@ export function slugTag(tag: string) {
     .split("/")
     .map((tagSegment) => sluggify(tagSegment))
     .join("/")
-}
+    .toLowerCase()
+ }
 
 export function joinSegments(...args: string[]): string {
   if (args.length === 0) {
