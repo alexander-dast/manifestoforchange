@@ -77,7 +77,7 @@ export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
     slug = slug.replace(/_index$/, "index")
   }
 
-  return (slug + ext) as FullSlug
+  return (slug + ext).toLowerCase() as FullSlug
 }
 
 export function simplifySlug(fp: FullSlug): SimpleSlug {
@@ -180,7 +180,8 @@ export function slugTag(tag: string) {
     .split("/")
     .map((tagSegment) => sluggify(tagSegment))
     .join("/")
-}
+    .toLowerCase()
+ }
 
 export function joinSegments(...args: string[]): string {
   if (args.length === 0) {
