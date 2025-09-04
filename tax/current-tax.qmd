@@ -1,0 +1,90 @@
+---
+execute:
+    echo: false
+
+format:
+    html:
+        code-tools: true
+---
+# Take Home and Tax %
+Various figures showing the UK tax bands including how the personal allowance removal affects marginal tax. Graphs with personal allowance removal added are classed as "with cliff edge".
+
+National Insurance is not included at the moment.
+
+```{python}
+# Setup Calculations
+import matplotlib.pyplot as plt
+import numpy as np
+def pound_format(x, pos):
+    return "£{:.0f}k".format(x/1000)
+
+plt.rcParams['svg.fonttype'] = 'none'
+
+thresholds = [0, 12570, 50271, 125140]
+rates = [0, 0.2, 0.4, 0.45]
+earnings = np.linspace(0,200000, 1000)
+tax = np.zeros_like(earnings)
+for t,r in zip(thresholds, rates):
+    tax[earnings>=t] = r
+
+# Take Home Based On Tax
+approximate_takehome_per_interval = np.diff(earnings[1:])[0]*(1-tax[1:])
+approximate_takehome = np.cumsum(approximate_takehome_per_interval)
+
+# Approximating Take Home After PA Removal
+# Removal modelled as if it is an expansion of the sub £125140 band, which it in all effects will be.
+threshold = np.full_like(earnings, 12570)
+removal = (earnings-100000)/2
+personal_allowance_removal = np.maximum(np.minimum(removal, threshold)*rates[2],np.zeros_like(earnings))
+personal_allowance_diff = np.diff(personal_allowance_removal)
+
+# 
+marginal_tax = tax[1:]+abs(personal_allowance_diff/np.diff(earnings[1:])[0])
+with_pa_removal = approximate_takehome - personal_allowance_removal[1:]
+```
+```{python}
+import matplotlib.pyplot as plt
+ax1 = plt.axes()
+ax1.plot(earnings, tax*100, label="No Cliff Edge")
+ax1.set_xlabel("Earnings (£)")
+ax1.xaxis.set_major_formatter(pound_format)
+ax1.set_ylabel("Marginal Tax Rate");
+
+plt.plot(earnings[1:], marginal_tax*100, linestyle='--', label='Cliff Edge')
+plt.legend()
+plt.grid()
+ax1.set_xlim((0,200000))
+
+```
+
+```{python}
+ax1 = plt.axes()
+ax1.plot(earnings[1:], approximate_takehome, label="No Cliff Edge")
+ax1.plot(earnings[1:], with_pa_removal, label="Cliff Edge")
+ax1.set_ylabel("Take Home (£)")
+ax1.xaxis.set_major_formatter(pound_format)
+ax1.yaxis.set_major_formatter(pound_format)
+ax1.set_xlim((0,200000))
+
+ax1.set_xlabel("Earnings (£)")
+ax1.legend()
+ax1.grid()
+```
+
+```{python}
+#| label: fig-takehome
+#| fig-cap: Take home %, and inversely tax % of income given a salary.
+ax1 = plt.axes()
+ax1.plot(earnings[1:], with_pa_removal/earnings[1:]*100, label="Take Home")
+ax1.set_ylabel("Take Home %", color='tab:blue')
+ax1.tick_params(axis='y', colors='tab:blue')
+ax1.xaxis.set_major_formatter(pound_format)
+ax2 = ax1.twinx()
+ax2.plot(earnings[1:], (1-with_pa_removal/earnings[1:])*100, color='tab:red')
+ax2.set_ylabel("Tax %", color='tab:red')
+ax2.tick_params(axis='y', colors='tab:red')
+ax1.grid()
+ax2.set_ylim((-2.5,42.5))
+ax1.set_xlim((0,200000))
+ax1.set_ylim(57.5,102.5)
+```

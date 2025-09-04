@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 09c15eea-7c13-44b2-a0c0-c4c891f71a2c
+      url: https://cerulean-cocada-022290.netlify.app

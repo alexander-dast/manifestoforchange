@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+  preview:
+    port: 8887
+    browser: false
+    navigate: false
+
+filters:
+- auto-dark
+
+website:
+  title: "mfc-website-v2"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: ideas/the-change-pledge.md
+        text: The Change Pledge
+    right:
+      - href: https://github.com/alexander-dast/manifestoforchange/
+        icon: github
+
+  drafts: 
+    - jobs/*.qmd
+    - ideas/*.qmd
+    - general/*.qmd
+
+      
+
+  sidebar:
+    contents: auto
+    style: docked
+
+format:
+  html:
+    theme:
+      light: simplex
+    css: styles.css
+    toc: true
+    fig-format: svg
+    fig-align: left
+    fig-dpi: 300
+
+comments:
+  hypothesis:
+    theme: classic
+
