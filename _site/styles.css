@@ -1,8 +1,0 @@
-/* css styles */
-
-@media (prefers-color-scheme: dark) {
-  /* Do not invert media (revert the invert). */
-  img.figure-img {
-    filter: invert(0%) hue-rotate(0);
-  }
-}

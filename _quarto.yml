@@ -6,6 +6,9 @@ project:
     browser: false
     navigate: false
 
+execute:
+  freeze: auto
+
 filters:
 - auto-dark
 
@@ -20,13 +23,6 @@ website:
     right:
       - href: https://github.com/alexander-dast/manifestoforchange/
         icon: github
-
-  drafts: 
-    - jobs/*.qmd
-    - ideas/*.qmd
-    - general/*.qmd
-
-      
 
   sidebar:
     contents: auto
