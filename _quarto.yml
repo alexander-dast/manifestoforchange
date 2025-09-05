@@ -11,6 +11,7 @@ execute:
 
 filters:
 - auto-dark
+- surface-filename
 
 website:
   title: "Manifesto For Change"
@@ -35,6 +36,7 @@ format:
     include-in-header:
       text:
         <meta name="dc.relation.ispartof" content="manifestoforchange.org.uk">
+        <meta name="dc.identifier" content="{{< meta site-post >}}">
     theme:
       light: simplex
     css: styles.css
