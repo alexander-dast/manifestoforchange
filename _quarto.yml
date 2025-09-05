@@ -13,7 +13,9 @@ filters:
 - auto-dark
 
 website:
-  title: "mfc-website-v2"
+  title: "Manifesto For Change"
+  site-url: https://manifestoforchange.org.uk
+  repo-url: https://github.com/alexander-dast/manifestoforchange
   navbar:
     left:
       - href: index.qmd
