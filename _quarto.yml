@@ -32,6 +32,8 @@ website:
 
 format:
   html:
+    include-in-header: 
+      <meta name="dc.relation.ispartof" content="manifestoforchange.org.uk">
     theme:
       light: simplex
     css: styles.css
