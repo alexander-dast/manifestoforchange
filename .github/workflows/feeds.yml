@@ -1,0 +1,19 @@
+name: rss
+
+on:
+  schedule:
+  - cron: '05 00 * * *'
+  workflow_dispatch:
+
+jobs:
+  gke:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.5.1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://hypothes.is/stream.rss?uri=https://manifestoforchange.org.uk"
+        prefix: "[hypothes.is]"
+        dry-run: "false"
+        lastTime: "92h"
+        labels: "comment"
