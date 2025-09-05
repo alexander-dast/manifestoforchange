@@ -2,6 +2,8 @@
 
 Key to this is that prospective collaborators go into the project with a mentality of **ambitious compromise**.
 
+This has changed.
+
 To attempt to define what this means: 1. your ideals won't always appeal to the majority and implementation may not be feasible, so be open to discussion 2. compromise isn't a bad thing, in fact it means finding a solution that works 3. compromise doesn't have to mean a worse idea, perhaps it even means finding a better solution to a problem.
 
 Change isn't easy and requires work and sacrifice, both in developing the ideas and in the implementation
