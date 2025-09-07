@@ -6,7 +6,7 @@ Currently it seems planning and competition laws in the UK stifle rather then im
 
 Could there be an argument that sometimes we are shooting ourselves in the foot. If the progress towards innovation is stifled by monopolistic tendencies and the regulators step in, but stifle innovation with excess bureaucracy, is it at a net negative to UK industry? How can we reach an optimum point.
 
-![competition_vs_regulation.png](/media/competition_vs_regulation.png)
+![competition_vs_regulation.png](../media/competition_vs_regulation.png)
 
 Can the workforce sometimes end up worse off with the regulators in place? Regulators should be there to avoid obvious pitfalls and anti-competitive practice rather then stifle innovation.
 

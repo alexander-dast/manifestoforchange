@@ -1,17 +1,24 @@
-*manifestoforchange.org.uk* aims to be a crowdsourced, repository of knowledge, ongoing research, and discussion of real ideas. It should be full of thoughts for how we can enact 'real change' to the system we live in. It is focused towards the United Kingdom, but really the ideas should be applicable anywhere.
+The aim of this [manifesto for change](manifestoforchange.org.uk) is to be a crowdsourced, repository of knowledge, ongoing research, and a discussion of ideas.
 
-Key to this is that prospective collaborators go into the project with a mentality of **ambitious compromise**.
+It should be full of thoughts for how we can enact change within the system. It is focused towards the United Kingdom, but really the ideas should be applicable anywhere, and really we welcome anyone who wants to contribute to the discussion.
 
-This has changed.
+Key to this is that prospective collaborators go into the project with a mentality of **ambitious compromise.**
 
-To attempt to define what this means: 1. your ideals won't always appeal to the majority and implementation may not be feasible, so be open to discussion 2. compromise isn't a bad thing, in fact it means finding a solution that works 3. compromise doesn't have to mean a worse idea, perhaps it even means finding a better solution to a problem.
+To attempt to define what this means:
+1. your ideals won't always appeal to everyone — be open to discussion. If you are confident in your idea, don’t necessarily dispose of it, but think about how you can rework it? 
+2. compromise isn't a bad thing, it means finding a solution that works
+3. compromise doesn't have to mean a worse idea, perhaps it even means finding a solution that is better for everyone
 
 Change isn't easy and requires work and sacrifice, both in developing the ideas and in the implementation
 
-A real issue in discourse at the moment is the ability to accept two things at once. There isn't one clear solution to world issues, no matter how easy it is for us to look for quick fixes.
+A real issue in discourse at the moment is the ability to accept two things at once. There is a lot of complexity in the world which means there isn't one clear solution, no matter how easy it is for us to look and promise quick fixes.
 
-Sometimes the political landscape leads to apathy, and a feeling that things can't change. But this is self-fulfilling.
+Sometimes the political landscape leads to apathy, and a feeling that things can't change. But this is self-fulfilling - without thinking things can change, they won’t.
 
-Ideally this set of information should be a record of ideas, and the discussion, explanation and research that has gone into making them. The actual process of making that happen is not complete, so some work will have to go into the actual technical side of making this vision possible, read more on this [README](/README.md).
+Ideally this set of information should be a record of ideas, discussion, explanation and research. It is important that sufficient time is spent thinking on the negative side-effects of policy, and linking similar ideas, other proposals, and counter proposals. Where there are lots of similar ideas, easy-to-digest summaries are advisable, with enough further information on subsections/subpages.
 
-[Approach](/meta/approach.qmd) discusses the 'system' with which this project should be approached.
+Not all work will be on the content, and a significant portion of work will have to go into the actual technical side of making this vision possible - read more on this [README](./README.md). Alongside this significant work will have to be spent on trimming, editing and general maintenance so that this doesn’t fall into a horrible mess.
+
+[Approach](./meta/approach.qmd) discusses the 'system' with which this project should be approached, but will change as this project advances — if this project advances.
+
+More of a [preface](./preface.md)

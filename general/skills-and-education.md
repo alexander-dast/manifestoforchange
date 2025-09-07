@@ -1,0 +1,3 @@
+## People & Society
+### Skill-Flight
+We need to work out how we can retain high skilled engineers, technologists, etc within the UK. There are lots of intelligent people but also lots of movement towards the United States. It is unlikely that we will be able to compete further in most industries but we need an industrial strategy to allow us to compete on a global scale in at least a few industries. We likely can not compete on wage so we must instead compete on an ideological, cultural, and the general standard-of-life. The UK may not be able to pay the most but it can offer other intangible assets.

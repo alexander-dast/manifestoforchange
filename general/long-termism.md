@@ -1,0 +1,2 @@
+## Long-lasting thinking
+Short term thinking is a byproduct of our inherent desire for material goods. But happiness is built in the long-term when our children have noticeably better lives than ourselves. This means we have to sacrifice some of our material-desires to fund the future.
