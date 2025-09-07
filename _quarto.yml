@@ -31,6 +31,16 @@ website:
     contents: auto
     style: docked
 
+  draft-mode: unlinked 
+
+metadata-files:
+  - _drafts.yml
+
+script-config:
+  draft-directories:
+    - ideas/
+    - jobs/
+
 format:
   html:
     include-in-header:
