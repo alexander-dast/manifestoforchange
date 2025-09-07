@@ -6,3 +6,9 @@
     filter: invert(0%) hue-rotate(0);
   }
 }
+
+.hypothesis-highlight  {
+  background-color: rgba(60, 112, 255, 0.3) !important;
+  filter: invert(0%) hue-rotate(0);
+
+}

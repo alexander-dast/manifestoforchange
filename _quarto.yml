@@ -11,9 +11,12 @@ execute:
 
 filters:
 - auto-dark
+- surface-filename
 
 website:
-  title: "mfc-website-v2"
+  title: "Manifesto For Change"
+  site-url: https://manifestoforchange.org.uk
+  repo-url: https://github.com/alexander-dast/manifestoforchange
   navbar:
     left:
       - href: index.qmd
@@ -28,8 +31,22 @@ website:
     contents: auto
     style: docked
 
+  draft-mode: unlinked 
+
+metadata-files:
+  - _drafts.yml
+
+script-config:
+  draft-directories:
+    - ideas/
+    - jobs/
+
 format:
   html:
+    include-in-header:
+      text:
+        <meta name="dc.relation.ispartof" content="manifestoforchange.org.uk">
+        <meta name="dc.identifier" content="{{< meta site-post >}}">
     theme:
       light: simplex
     css: styles.css
