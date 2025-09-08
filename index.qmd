@@ -21,4 +21,6 @@ Not all work will be on the content, and a significant portion of work will have
 
 [Approach](./meta/approach.qmd) discusses the 'system' with which this project should be approached, but will change as this project advances — if this project advances.
 
-More of a [preface](./preface.md)
+More of a [preface](./preface.md) to motivate these changes.
+
+[Fundamentals](./fundamentals.md)

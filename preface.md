@@ -1,4 +1,4 @@
-# Preface
+# An Argument Towards Reform
 *An argument towards reform - a manifesto for change.*
 
 Systems are fashioned by their parts and the wider context they act in. As part of one, we can and should mould it - together, through what we believe is right or wrong, by what we want to be - and more importantly what experiences we want future generations to have decades, or centuries in the future. Humanity has an opportunity to reach greatness, but if we don’t put enough time and thought into where we place our feet we could stumble along a different path.
@@ -9,32 +9,27 @@ The decision to mould ourselves, and society is not so simple as what moral prin
 
 Compromise is of course necessary, without it will be hard to make any progress, trapped in a constant swirl of wasted actions.
 
-We need to look at how to fashion our system in a way that creates long term improvement in metrics that actually matter. This may not be measured in financial gains for the few, but in a general standard of life and opportunities offered for all, in progress towards the goal of general happiness or productivity. 
+We need to look at how to fashion our system in a way that creates long term improvement in metrics that actually matter. This may not be measured in financial gains for the few, but in a general standard of life and opportunities offered for all.
 
-Humanity has possibilities way beyond what any of us can conceive now — to reach for the stars may not be science fiction in the future.
+*Humanity has possibilities that way beyond what any of us can conceive now — to reach for the stars may not be science fiction in the future.*
 
-This cannot mean that all people should have equal outcome. It is imperative not to ignore our own nature. Biologically we have evolved to reward ourselves (chemically) towards goals leading to self-preservation, and we should build a society that acts in a similar way. Rewards for things that are of benefit (and vice versa punishment for failing to act towards common good). Positivity is always the preference, but the persuasive power of the negative can not be ignored.
+All people will not have equal outcome in any system and nor should they. People should be rewarded for doing things that are of benefit. Those that don’t work for common good, should have the opportunity to do so, but no reward should come without effort.
  
-Cold pushed us to build shelter. The system needs to push us to strive for greatness.
+*Cold pushed us to build shelter. The system needs to push us to strive for better.*
 
-The capitalist system is a good example of a ‘reward’ system. People are rewarded for taking risks, finding cost-cuts and growth in productivity, creating real lasting technological improvements to society. But in tandem this system can also overlook key metrics of long-term human wellbeing. It can be too focused on short term gains, because short-term rewards can be persuasive to human instinct. Short-termism however can lead to ever reducing gains. Capitalism, indadvertently may be a system that takes advantage of our very nature for transient gains, and although it has been successful at finding growth over the last centuries, without careful observation and adjustment, how do we know it is still guiding us in the right direction?
+The capitalist system is a good example of a ‘reward’ system. People are rewarded for taking risks, finding productivity improvements, and creating real lasting technological improvements to society. This system however has flaws — it can overlook key metrics of long-term human wellbeing, the intangibles of cultural pursuit and creativity. It can be too focused on [short term gains](./general/long-termism), because short-term rewards can are amenable to human instinct. Short-termism however leads to ever reducing gains.
 
-This short-termism does raise a question. How do we provide motivation for long-term gains, when we may not be alive in the long-term? Do people care about a future they won’t exist within? Global warming is a common example, why cut fossil fuels if you won't feel their impact.
+Although free-market capitalism has been successful at finding growth over the last centuries, how do we know it is still guiding us in the right direction? How can we realign our system to the direction we want?
 
-Bad apples are common to find in any system. Before rot sets in and spreads, they should be separated from the tree, for its own protection. If they can be rehabilitated, this should be attempted. If not, then unfortunately re-ntegration would compromise the health of the rest of the system. 
+Resistance to a status quo is likely to occur in any system. Push back and opposition is not a bad thing — sometimes resistance demonstrates that things need to change, and any system should listen to the voices of its citizens. Deciding the line carefully between natural opposition and protest, and what counts as criminality can be a hard line to walk. It is the line that separates despotic and free regimes. 
 
-No system is perfect and there will always be crevices for people to fall into. Retribution and blame is a useless tool, though is a part of our emotional retinue. Instead we should look towards righting the wrongs, and giving people who are able to take it a track back onto the right path.
+If behaviour is expected to cause damage to others, we should carefully weigh up the cost, before cracking down hard. Some behaviour is negative to society, and when behaviour causes damage to others, the cost of the restriction of the freedom of one has to be carefully balanced against the damage they can cause to others.
 
-We should be wary of seeing a bad apple where it is merely a pear. What looks like a risk to a system may instead be an opportunity to adapt to the changing status quo. Be wary of judging too soon without critical thought.
+Sometimes people break the rules not because they particularly oppose them, but because they think they can get a better deal outside the lines.
 
-### Planning & Government & Enterprise
-Allowing people the freedom to come up with their own idea, act on it, and reap the rewards of their risk, is an important part on motivating hard work and creativity. Possibly even those who act once, won't just have one innovation and will be 'serial' inventors, their previous rewards help to fuel a chain reaction of 'creation'. 
+Sometimes people can be rehabilitated and shown a new path, where they can contribute, and harness their energy in a better direction. If not, then unfortunately re-integration could compromise the health of the rest of the system, and here prisons or alternative measures should be used to isolate these members.
 
-There is however the effect that people think from a short-term frame, invent now, take profit. Relax on the profit they have generated. Investors can be motivated by these short term time frames, always looking for the next 'fad' to make a short term gain on. We need to seriously look at how we can encourage companies to invest in the future rather then practices like price-gouging, 'layoffs' focused on increasing profit margin rather then innovation. 
+No system is perfect and there will always be crevices people to fall into.
 
-Intervention by 'Sovereign wealth funds' & even motivating individuals to take a stake may provide companies with a guiding force towards long term growth.
-
-
-
-
+What looks like a risk to a system may instead be an opportunity to adapt to the changing status quo. A system should not act to restrict opposition speech lest it become stagnant. 
 
