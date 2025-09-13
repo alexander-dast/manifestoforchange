@@ -1,8 +1,6 @@
 
 # Planning and Competition
 ## Introduction
-
-Planning & Government & Enterprise
 Allowing people the freedom to come up with their own idea, act on it, and reap the rewards of their risk, is an important part on motivating hard work and creativity. Possibly even those who act once, won't just have one innovation and will be 'serial' inventors, their previous rewards help to fuel a chain reaction of 'creation'. 
 
 There is however the effect that people think from a short-term frame, invent now, take profit. Relax on the profit they have generated. Investors can be motivated by these short term time frames, always looking for the next 'fad' to make a short term gain on. We need to seriously look at how we can encourage companies to invest in the future rather then practices like price-gouging, 'layoffs' focused on increasing profit margin rather then innovation. 
