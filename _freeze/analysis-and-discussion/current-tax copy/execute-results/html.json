@@ -1,0 +1,12 @@
+{
+  "hash": "372abeac1c03ab7a13ac6294ebee5d5b",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\nexecute:\n  echo: false\nformat:\n  html:\n    code-tools: true\ntitle: Take Home and Tax %\n---\n\n\n\n\nVarious figures showing the UK tax bands including how the personal allowance removal affects marginal tax. Graphs with personal allowance removal added are classed as \"with cliff edge\".\n\nNational Insurance is not included at the moment.\n\n\n\n\n::: {#96da3296 .cell execution_count=2}\n\n::: {.cell-output .cell-output-display}\n![](current-tax copy_files/figure-html/cell-3-output-1.svg){}\n:::\n:::\n\n\n::: {#43a83c9c .cell execution_count=3}\n\n::: {.cell-output .cell-output-display}\n![](current-tax copy_files/figure-html/cell-4-output-1.svg){}\n:::\n:::\n\n\n::: {#cell-fig-takehome .cell execution_count=4}\n\n::: {.cell-output .cell-output-display}\n![Take home %, and inversely tax % of income given a salary.](current-tax copy_files/figure-html/fig-takehome-output-1.svg){#fig-takehome}\n:::\n:::\n\n\n",
+    "supporting": [
+      "current-tax copy_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

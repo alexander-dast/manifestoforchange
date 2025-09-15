@@ -21,7 +21,8 @@ The capitalist system is a good example of a ‘reward’ system. People are rew
 
 Some may argue free-market capitalism has been successful at finding growth over the last centuries, but how do we know it is still guiding us in the right direction? How can we realign our system to the direction we want?
 
-Resistance to a status quo is likely to occur in any system. Push back and opposition is not a bad thing — sometimes resistance demonstrates that things need to change, and any system should listen to the voices of its citizens. Deciding the line carefully between natural opposition or protest, and what counts as criminality can be a hard line to walk. It is the line that separates despotic and free regimes. 
+### Resistance and Rebellion
+Resistance to a status quo is likely to occur in any system. Push back and opposition is not a bad thing — sometimes resistance demonstrates that things need to change. =Any= system should listen to the voices of its citizens. Deciding the line carefully between natural opposition or protest, and what counts as criminality can be a hard line to walk. It is the line that separates despotic and free regimes. 
 
 If behaviour is expected to cause damage to others, we should carefully weigh up the cost, before cracking down hard. Some behaviour is negative to society, and when behaviour causes damage to others, the cost of the restriction of the freedom of one has to be carefully balanced against the damage they can cause to others.
 

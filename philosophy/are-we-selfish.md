@@ -8,8 +8,7 @@ So how do we make our systems begin to work for all of us again. We need to come
 
 A healthier population is better for everyone?
 Efficient and working infrastructure is better for everyone?
-Having somewhere to live that is warm is better for everyone? [Housing co-op or non-profit](<Housing co-op or non-profit.md>)
-Right?
+Having somewhere to live that is warm is better for everyone? Right? [Housing co-op or non-profit](../ideas-and-policy/housing-co-op-or-non-profit.md)
 
 Its true that structures that were put in place to benefit us now feel like they take advantage of us. We are losing trust in the institutions that run our society.
 

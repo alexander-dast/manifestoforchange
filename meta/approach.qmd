@@ -26,7 +26,7 @@ Idea2 --> id1
 [^1]: This is an example of a reference
 
 ## Discussion
-Discussion will likely be held across a number of sites until the best method for handling them makes itself known. GitHub issues provides one option, while Reddit another. We have built in hypothes.is which allows direct annotation of the website, and this will link itself directly to GitHub issues. The aim is to provide the best platforms to get people involved in this project.
+Discussion will likely be held across a number of sites until the best method for handling them makes itself known. GitHub issues provides one option, while Reddit another. We have built in [hypothes.is](https://hypothes.is) which allows direct annotation of the website, and this will link itself directly to GitHub issues. The aim is to provide the best platforms to get people involved in this project.
 
 If in person discussions are preferred, when the project gets bigger, further methods should/could be provided. 
 
