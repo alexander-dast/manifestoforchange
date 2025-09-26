@@ -21,8 +21,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: ideas/the-change-pledge.md
-        text: The Change Pledge
     right:
       - href: https://github.com/alexander-dast/manifestoforchange/
         icon: github
@@ -47,6 +45,7 @@ format:
       text:
         <meta name="dc.relation.ispartof" content="manifestoforchange.org.uk">
         <meta name="dc.identifier" content="{{< meta site-post >}}">
+    pagetitle: "{{< meta title >}}"
     theme:
       light: simplex
     css: styles.css

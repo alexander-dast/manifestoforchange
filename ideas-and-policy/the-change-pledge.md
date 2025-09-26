@@ -1,7 +1,7 @@
 # The Change Pledge
-At manifestoforchange.org.uk we aim to promote discussion on ideas that can advance humanity in a way that is via discourse, debate and acceptance, rather then populism, exclusion and a stubborn neccesity to tow the party line.
+At manifestoforchange.org.uk we aim to promote discussion on ideas that can advance humanity in a way that is via discourse, debate and acceptance, rather than populism, exclusion and a stubborn neccesity to tow a party line. We may disagree on some issues, but we agree on the need to make the world a better place as a community.
 
-As a stepping stone to humanity we look to home in the UK.
+As a stepping stone to making changes on a global level we look to home in the UK.
 
 There is no one ideology or set of policies that has been proven to make society a better, fairer place - instead various policies from various parts of the 'spectrum' are implemented, each bringing changes good and bad. 
 

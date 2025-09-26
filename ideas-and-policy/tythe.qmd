@@ -1,0 +1,24 @@
+# Tythe
+Tythe is an idea for a non-profit foundation targeted at improving the world and contributing to social causes. Its idea is motivated by the fundamental fact that capitalism doesn’t understand and doesn’t care about society.
+
+## How would it work?
+Tythe would be a giving pact of 10% of post-tax income into a charitable/non-profit foundation:
+
+Donations are divided between:
+- beneficial charitable organisations (where the most benefit/£ reaches the right people)
+- community causes and infrastructure - a mixture of loans and direct donations
+- Tythe projects (projects where there isn't an existing alternative but where there seems to be a need).
+- a savings pot (which aims to fill shortfalls where necessary - pushing projects over the line, and contribute to long-term planning of the Tythe organisation)
+
+The Tythe organisation should be as streamlined as possible so a majority of the input goes to real impact.
+
+Key to ensuring exposure is that people see benefit to their donations, so focus has to be made on impact investing. Significant focus should still be placed on long-term projects as most problems cannot be solved in a few days, and focusing on short-term front-page issues will leave our greatest problems unsolved.
+
+The aim of the fund should be to create benefit locally, nationally and eventually globally. We can't ignore global problems, but certainly the local problems will be more cost-effective to solve first, since the cause has the most understanding of these. If the organisation can expand to make a bigger impact it should, but it shouldn’t forget its’ place - improving society and bringing everyone up with it.
+
+## In detail:
+- A not-for-profit holding organisation which can act as a facilitator for gift aid donations. [on sign-up a donor will allocate their 10% monthly donation between causes at which point they will be able to sign up for a % to be gift-aided. This % has to be explicit and sign up for the legality of facilitating gift-aid to the charitable arm and keeping the funds separate.]
+	- A charitable arm - targeted towards giving money to charities with the biggest impact
+	- A ‘for-profit’ (technically) arm aimed at investing in projects that will make strong social impact, through a mix of loans and direct donations.
+		- Any profit from projects will be passed to the holding organisation which will be able to reallocate.
+		- This will also act as a holding organisation for sub-projects that are directly facilitated by the Tythe team - i.e. those where existing organisation don’t exist or aren’t good enough.

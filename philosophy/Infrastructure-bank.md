@@ -1,3 +1,5 @@
+
+
 Profit doesn't need to come only by investing in the current privatised financial status quo, but in other forms of wealth - the standard of living and wellbeing that we all notice everyday. By making sure the infrastructure is working efficiently and being upgraded, maybe we can take a little bit of negativity out of the morning breeze.
 
 Taking a stake in our collective future. 

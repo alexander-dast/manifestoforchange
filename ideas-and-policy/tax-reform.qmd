@@ -1,5 +1,8 @@
+--- 
+title: Tax Reform
+---
+
 # The Case for Tax Reform
-## Preface
 Tax affects every worker and business. What tax levels are fair is a question that remains largely unanswered.
 
 Tax can cause discontent if too high as it adds resistance to the ability of individuals to innovate by flattening out the 'benefits' of putting extra work in. It can make it seem like this extra work or or time spent gaining skills is not valued. Most would argue that incentivising work is a good target, but to what degree the current system does this is open to interpretation.
@@ -12,11 +15,14 @@ In general, most may argue that the removal of tax altogether is out of the ques
 In the UK, tax tends to fall on the broadest shoulders, with the proportion taken increasing arbitrarily as pay goes up. 
 
 ### Simple reforms to the tax system
-1. Fixing the removal of the personal allowance. This is an unnecessary and arbitrary cliff-edge that leads to a high marginal tax rate. Similarly the removal of child benefits should be removed.
+1. Fixing the removal of the personal allowance. This is an unnecessary and arbitrary cliff-edge that leads to a high marginal tax rate. Similarly the removal of child benefits should be removed or reformed. 
 2. Removing the double taxation of work by rolling National Insurance into income tax. If we value workers, why is it more unfavourable to earn money in this way.
 
 ### More complex reforms
-1. Reform the personal allowance. The personal allowance and minimum wage could be rolled into one idea. A set tax free minimum rate that all workers should be paid. Simply, if it costs a certain [amount to live](/general/basic-necessity.md) (the minimum wage) then this should be an untaxed sum, available to everyone.
+1. Reform the personal allowance. The personal allowance and minimum wage could be rolled into one idea. A set tax free minimum rate that all workers should be paid. Simply, if it costs a certain [amount to live](../philosophy/basic-necessity.md) (the minimum wage) then this should be an untaxed sum, available to everyone. This would lead to some sort of welfare-net, where the population are given the necessities necessary to live, but to prosper they have to do something for themselves.
+2. LVT. A land value tax is the next progressive suggestion but would require a big reform of the current system. It would be complex, require a slow roll in but is likely to be one of the best options to create a system which values land that is used productively and disincentivises hoarding.
+3. Triple-Lock Pension Reform $\rightarrow$ Single Lock based on Wage Growth.
+Perhaps it would be equitable solution to decide on a compromise of a let's say 'double lock' or middle-ground, but pensions growing faster then taxable pay is always going to be unsustainable.
+4. Shares Stamp Duty Reform. This tax is making the UK less competitive on an international level.
 
-# LVT
-A land value tax is the next progressive suggestion but would require a big reform of the current system. It would be complex, require a slow roll in but is likely to be one of the best options.
+
