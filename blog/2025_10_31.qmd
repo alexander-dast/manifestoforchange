@@ -1,5 +1,12 @@
-State of manifestoforchange.org.uk as of 31 October 2025.
 ---
+title: 2025/10/31
+---
+  
+
+State of manifestoforchange.org.uk as of 31 October 2025.
+
+---
+
 # State of the Site
 This is the first blog post describing the current state of the website. Currently the content is being created and the website is being maintained all by one person (me), and therefore progress is slow outside of all my other commitments. 
 
