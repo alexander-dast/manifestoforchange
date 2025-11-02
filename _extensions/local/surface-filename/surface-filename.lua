@@ -17,5 +17,11 @@ function Meta(meta)
     meta["site-post"] = ""
   end
 
+  -- -- Find the first occurrence of the marker (plain‑string search)
+  -- local _, finish = out_path:find("/", 1, true)
+  -- if not meta.title then
+  --   meta.title = meta["site-post"]
+  -- end
+
   return meta
 end

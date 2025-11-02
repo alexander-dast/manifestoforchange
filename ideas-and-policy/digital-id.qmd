@@ -17,4 +17,18 @@ If each data point is separated properly with modern data security and privacy (
 # User Control
 Implementing a system like this would require informed thought about what identity parameters are necessary to enforce the law, and which are not. And which parts of the information can and should be able to be linked together.
 
+## Example Outline
+```{mermaid}
+sequenceDiagram
+    Alice->>+Website: Hi, I'd like to access this site.
+    Website->>-Alice:You need to verify your age.
+    Alice->>+gov.uk: Hi, I'm Alice.
+    gov.uk->>+private.gov.uk: Here is an link to a user that has been verified.
+    gov.uk->>-Alice: You are verified, await a token.
+    private.gov.uk->>-Alice: Here's your anonymised key.
+    Alice->>+Website: I have a  verification key.
+    Website-->>+private.gov.uk: I'd like to check this key?
+    private.gov.uk-->>-Website: That's valid.
+    Website->-Alice: Access Granted
+```
 

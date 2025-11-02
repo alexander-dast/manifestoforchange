@@ -8,7 +8,7 @@ So how do we make our systems begin to work for all of us again. We need to come
 
 A healthier population is better for everyone?
 Efficient and working infrastructure is better for everyone?
-Having somewhere to live that is warm is better for everyone? Right? [Housing co-op or non-profit](../ideas-and-policy/housing-co-op-or-non-profit.md)
+Having somewhere to live that is warm is better for everyone? Right? [Housing co-op or non-profit](../ideas-and-policy/housing.md)
 
 Its true that structures that were put in place to benefit us now feel like they take advantage of us. We are losing trust in the institutions that run our society.
 
@@ -24,7 +24,7 @@ Are we anti-tax because:
 Why are people so anti-student loans?
 - Do we not believe in our education system?
 
-[Tythe](Tythe.md)
+[Tythe](/ideas-and-policy/tythe.qmd)
 Capitalism isn't the issue, we are.
 
 

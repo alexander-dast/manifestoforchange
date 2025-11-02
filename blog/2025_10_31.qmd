@@ -13,6 +13,7 @@ This is the first blog post describing the current state of the website. Current
 I really do have a clear vision that we can have a better country and eventually a better world, but the journey towards that isn’t obvious and is riddled with complexity. 
 
 Some questions I have been muddling over:
+
 1. What is it that we want government to do?
 2. Why does it seem to achieve so little?
 3. Why do feel so little agency towards changing our system?
@@ -21,7 +22,7 @@ We have locked ourselves in a little box of convention - and instead of working 
 
 We have locked ourselves into a box of stagnation partly because there is no clear political idea of what change can look like. 
 
-All parties promise the same, but there is no clear vision of what this change can be. 
+All parties promise 'change', but there is no clear vision of what this change can be, and when they get power, this change never seems to come. 
 
 There is nothing wrong with economic growth, in fact it is the sign of a working system, but when you are too focused on the outcome of economic growth rather then focusing on the fundamentals  of a successful society (which should generate growth), it’s like steering a bike from the back wheel.
 
@@ -46,6 +47,9 @@ I do also understand that content takes time to write, and those who spend time,
 
 With enough interaction (and some sort of polling of engaged users) there could be some method to pay a flat fee for good content. 
 
+### Diagrams and Pictures
+This speaks for itself, the website is currently just a bunch of words which is hard to look at and not very engaging.
+
 --- 
 
-Please get in touch with ideas (or just a simple ‘hello’) if you are interested in the project in any way alexander-dast@pm.me
+Please get in touch with ideas (or just a simple ‘hello’) if you are interested in the project in any way [alexander-dast@pm.me](mailto:alexander-dast@pm.me)
