@@ -1,3 +1,7 @@
+---
+title: manifesto for change
+---
+
 The aim of this [manifesto for change](manifestoforchange.org.uk) is to be a crowdsourced, repository of knowledge, ongoing research, and a discussion of ideas.
 
 It should be full of thoughts for how we can enact change within the system. It is focused towards the United Kingdom, but really the ideas should be applicable anywhere, and really we welcome anyone who wants to contribute to the discussion.

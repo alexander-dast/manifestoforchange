@@ -17,16 +17,25 @@ website:
   title: "Manifesto For Change"
   site-url: https://manifestoforchange.org.uk
   repo-url: https://github.com/alexander-dast/manifestoforchange
-  navbar:
+  navbar: 
     left:
       - href: index.qmd
         text: Home
+      - href: blog
+        text: Blog
     right:
       - href: https://github.com/alexander-dast/manifestoforchange/
         icon: github
 
   sidebar:
-    contents: auto
+    contents: 
+      - section: Ideas & Policy
+        contents: ideas-and-policy/*
+      - section: Generic & Philosophy
+        contents:
+          philosophy/*
+      - section: Project Approach
+        contents: meta/*      
     style: docked
 
   draft-mode: unlinked 
@@ -45,7 +54,6 @@ format:
       text:
         <meta name="dc.relation.ispartof" content="manifestoforchange.org.uk">
         <meta name="dc.identifier" content="{{< meta site-post >}}">
-    pagetitle: "{{< meta title >}}"
     theme:
       light: simplex
     css: styles.css

@@ -1,0 +1,12 @@
+{
+  "hash": "98d6f34d5001b2ddeac0a24fc084507f",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Digital ID\n---\n\n\nDigital ID is synonymous with authoritarian government where the target is government control over its citizens, but this isn’t the only option. It is possible to build a digital system that increases the efficiency and ease of enforcing existing laws on work and immigration, age gating content, etc. without compromising on personal agency and privacy.\n\nIt is possible to build a digital ID system where data is:\n - protected\n - siloed\n - decentralized\n - anonymised\n\nwhere you can be verified for a website without the government knowing what website you are visiting and without the website knowing who you are.\n\nThis is the kind of digital ID we should want, one where it allows us to share the information we want to with the organisations we want to, where data privacy is of the highest importance, and where our information isn’t syndicated and sold.\n\n# Data Aggregation\nIf each data point is separated properly with modern data security and privacy (zero-trust keys, hashing, encryption), each individual service could also aggregate its information e.g. age of the population, but would not be able to associate this information with any of the other attributes or identify of the people.\n\n# User Control\nImplementing a system like this would require informed thought about what identity parameters are necessary to enforce the law, and which are not. And which parts of the information can and should be able to be linked together.\n\n## Example Outline\n```{mermaidjs}\nsequenceDiagram\n    Alice->>+Website: Hi, I'd like to access this site.\n    Website->>-Alice:You need to verify your age.\n    Alice->>+gov.uk: I'm Alice?\n    gov.uk->>+private.gov.uk: Here is an link to a user. \n    gov.uk->>-Alice: Verified.\n    private.gov.uk->>-Alice: Here's your anonymised key.\n    Alice->>+Website: I have a  verification key.\n    Website-->>+private.gov.uk: I'd like to check this key?\n    private.gov.uk-->>-Website: That's valid.\n    Website->-Alice: Access Granted\n```\n\n\n",
+    "supporting": [
+      "digital-id_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
